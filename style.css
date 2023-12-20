@@ -74,7 +74,6 @@ body{
 
 
 .contenedor-header{
-  max: width 1000px; ;
   background-image: url("/imagenes/Fondo/gtjnvkg.png");
   background-size: cover;
     /*background-color: #1e2326;*/
@@ -363,7 +362,6 @@ footer{
 
 /*--------About Us --------*/
 .mainAbout{
-  width: 70%;
   padding-top: 9rem;
   background-image: url("/imagenes/Fondo/gtjnvkg.png");
   background-size: cover;
@@ -839,6 +837,11 @@ footer{
   }
   
 }
+
+
+  
+
+
 
 
 /*----------Responsive-------*/
